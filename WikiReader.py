@@ -10,7 +10,7 @@ def read(day, month):
         return randomEfemeride(page_py)
     else:
         print("The Wikipedia page ["+pageName+"] could not be found.")
-        return ("BuhoSabiondo parece estar fallando ——por culpa de Wikipedia——. Meper d0nas¿")
+        return ("BuhoSabihondo parece estar fallando ——por culpa de Wikipedia——. Meper d0nas¿")
 
 
 def parse_month(month):
