@@ -10,5 +10,5 @@ while(running):
     month = theTime.month
     event = read(day, month)
     print(event)
-    #publish(event)
+    publish(event)
     time.sleep(86400) # Wait a 24h
