@@ -1,7 +1,7 @@
 import datetime
 import time
 from WikiReader import read
-from TweeterPublisher import publish
+from TwitterPublisher import publish
 running = True
 
 while(running):
